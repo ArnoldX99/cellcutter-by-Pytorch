@@ -79,7 +79,7 @@ border = cellcutter.utils.draw_border(dataset, model, np.zeros_like(input_img, d
 
 The training steps will be shown like below:
 
-![image-20230502134452823](C:\Users\10306\AppData\Roaming\Typora\typora-user-images\image-20230502134452823.png)
+![image](https://user-images.githubusercontent.com/64125777/235640943-6d2583a9-7704-467c-b84e-b342c4c563a5.png)
 
 We can see the loss function will be negative by definition.
 

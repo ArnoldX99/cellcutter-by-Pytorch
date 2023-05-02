@@ -1,5 +1,5 @@
 # Cellcutter notebook by GPU version
-Demo is avaliable by https://colab.research.google.com/drive/1siXnvlopsYA4XpzXvzlH_no1-zCbcBDL?usp=sharing
+[![Open In Colab](https://colab.research.google.com/drive/1siXnvlopsYA4XpzXvzlH_no1-zCbcBDL?usp=sharing)
 
 This article comes from Din, N.U., Yu, J. Training a deep learning model for single-cell segmentation without manual annotation. Sci Rep 11, 23995 (2021). https://doi.org/10.1038/s41598-021-03299-4
 

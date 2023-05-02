@@ -104,8 +104,6 @@ plt.show()
 
 Here we list results of epochs = 10 and epochs = 30 :
 
-![image-20230502134129743](C:\Users\10306\AppData\Roaming\Typora\typora-user-images\image-20230502134129743.png)
-
-![image-20230502134151709](C:\Users\10306\AppData\Roaming\Typora\typora-user-images\image-20230502134151709.png)
+![image](https://user-images.githubusercontent.com/64125777/235635492-e7eadecf-7fdf-477d-884d-1b24c85e10d8.png)
 
 We can see the masks and segmentation result get clearer with the increase of epochs.

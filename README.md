@@ -1,4 +1,4 @@
-# Cellcutter notebook by GPU version
+# Cellcutter notebook by pytorch, GPU
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1siXnvlopsYA4XpzXvzlH_no1-zCbcBDL?usp=sharing)
 
